@@ -30,7 +30,7 @@ export const translations = {
     about: {
       aboutUs: "About Us",
       whyChoose: "Why Choose",
-      autoElite: "AutoElite",
+      autoElite: "Us",
       subtitle: "We're more than just a car dealership — we're your trusted partner in finding the perfect vehicle.",
       ourStory: "Our Story",
       drivingDreams: "Driving Dreams Since 2009",
@@ -212,8 +212,8 @@ export const translations = {
     // About Section
     about: {
       aboutUs: "Kuhusu Sisi",
-      whyChoose: "Kwa Nini Utuchague sisi",
-      autoElite: "AutoElite",
+      whyChoose: "Kwa Nini Utuchague",
+      autoElite: "Sisi",
       subtitle: "Ni zaidi ya kituo Kuuza magari — Bali rafiki wako wa kuaminika katika kupata gari lako bora zaidi.",
       ourStory: "Hadithi Yetu",
       drivingDreams: "Kuendesha Ndoto Tangu 2009",
